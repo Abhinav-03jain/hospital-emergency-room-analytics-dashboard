@@ -131,7 +131,8 @@ Operational Insights
 
 Add your final dashboard screenshot here:
 
-`dashboard-preview.png`
+<img width="1477" height="602" alt="Dashboard_Preview" src="https://github.com/user-attachments/assets/84509af0-16f8-4230-bd80-a099b18a7812" />
+
 
 ## ⚠️ Data Privacy
 
